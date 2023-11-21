@@ -1,8 +1,10 @@
 import React from 'react';
 
-import pro1 from '../../public/images/pro1.jpg';
-import pro2 from '../../public/images/pro2.jpg';
-import pro3 from '../../public/images/pro3.jpg';
+import pro1 from '../../images/pro1.jpg';
+import pro2 from '../../images/pro2.jpg';
+import pro3 from '../../images/pro3.jpg';
+
+
 
 
 function Projects() {
