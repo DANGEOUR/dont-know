@@ -455,7 +455,7 @@
 }
 
 
-@media(max-width:523px){
+/* @media(max-width:523px){
   .first_row_input{
     flex-direction: column;
     
@@ -463,7 +463,7 @@
   .email{
     margin-top: 10px;
   }
-}
+} */
 
 
 /* form style end */

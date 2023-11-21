@@ -21,6 +21,7 @@ function Navbar() {
 
             <li className="items hover:cursor-pointer hover:text-yellow-500 hover:underline">Projects</li>
           </a>
+          <li><i class="fa-solid fa-bars"></i></li>
         </ul>
 
       </div>
